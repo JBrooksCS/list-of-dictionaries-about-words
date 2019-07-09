@@ -1,0 +1,11 @@
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/bin/Debug/netcoreapp2.2/list-of-dictionaries-about-words.deps.json
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/bin/Debug/netcoreapp2.2/list-of-dictionaries-about-words.runtimeconfig.json
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/bin/Debug/netcoreapp2.2/list-of-dictionaries-about-words.runtimeconfig.dev.json
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/bin/Debug/netcoreapp2.2/list-of-dictionaries-about-words.dll
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/bin/Debug/netcoreapp2.2/list-of-dictionaries-about-words.pdb
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/obj/Debug/netcoreapp2.2/list-of-dictionaries-about-words.csprojAssemblyReference.cache
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/obj/Debug/netcoreapp2.2/list-of-dictionaries-about-words.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/obj/Debug/netcoreapp2.2/list-of-dictionaries-about-words.AssemblyInfoInputs.cache
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/obj/Debug/netcoreapp2.2/list-of-dictionaries-about-words.AssemblyInfo.cs
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/obj/Debug/netcoreapp2.2/list-of-dictionaries-about-words.dll
+/Users/jason/Workspace/csharp/exercises/list-of-dictionaries-about-words/list-of-dictionaries-about-words/obj/Debug/netcoreapp2.2/list-of-dictionaries-about-words.pdb
